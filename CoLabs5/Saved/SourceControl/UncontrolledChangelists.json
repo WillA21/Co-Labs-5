@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset",
+				"C:/Users/dylsc/Documents/GitHub/Co-Labs-5/CoLabs5/Content/Input/IMC_Default.uasset",
+				"C:/Users/dylsc/Documents/GitHub/Co-Labs-5/CoLabs5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/willa/Documents/Unreal Projects/CoLabs5/Content/LevelMove.uasset",
 				"C:/Users/willa/Documents/Unreal Projects/CoLabs5/Content/FirstPerson/_GENERATED/willa/Combined_94BE5D30.uasset",
 				"C:/Users/willa/Documents/Unreal Projects/CoLabs5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
@@ -17,7 +20,6 @@
 				"C:/Users/willa/Documents/Unreal Projects/CoLabs5/Content/FirstPerson/_GENERATED/willa/Box_2B5DDA07.uasset",
 				"C:/Users/willa/Documents/Unreal Projects/CoLabs5/Content/FirstPerson/_GENERATED/willa/Box_CEC58D1A.uasset",
 				"C:/Users/willa/Documents/Unreal Projects/CoLabs5/Content/FirstPerson/_GENERATED/willa/Combined_71103E0F.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset",
 				"C:/Users/willa/Documents/Unreal Projects/CoLabs5/Content/FirstPerson/_GENERATED/willa/Stairs_2F579A56.uasset",
 				"C:/Users/willa/Documents/Unreal Projects/CoLabs5/Content/PlatformMove.uasset",
 				"C:/Users/willa/Documents/Unreal Projects/CoLabs5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/2Y/K1ORO2WUNKRDC1JBX2DU9G.uasset",
