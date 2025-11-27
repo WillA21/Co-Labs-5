@@ -10544,3 +10544,7 @@ Sampler Limit: 32
 [2025.11.27-20.25.44:077][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2025.11.27-20.25.44:077][ 83]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2025.11.27-20.25.44:077][ 83]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.27-20.25.45:689][ 83]LogEditorDataStorage: Deinitializing
+[2025.11.27-20.25.46:791][ 83]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.27-20.25.47:591][ 83]LogExit: Editor shut down
+[2025.11.27-20.25.47:661][ 83]LogExit: Transaction tracking system shut down
